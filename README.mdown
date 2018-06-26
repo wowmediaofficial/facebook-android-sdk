@@ -1,6 +1,7 @@
 Facebook SDK for Android
 ========================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/47aecaf30a2b4c4ab9ebfd0d4fedeaf5)](https://app.codacy.com/app/wowmediaofficial/facebook-android-sdk?utm_source=github.com&utm_medium=referral&utm_content=wowmediaofficial/facebook-android-sdk&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/facebook/facebook-android-sdk.svg?branch=master)](https://travis-ci.org/facebook/facebook-android-sdk.svg?branch=master)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
 
